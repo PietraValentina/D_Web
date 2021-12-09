@@ -32,23 +32,14 @@ header{
 .navegacao a:hover{
      color: darkgreen;
 }
-.conteudo{
-    float: left;
-    padding: 14px;
-}
-.conteudo.lateral{
-    margin: 10px 2px 25px 5px;
+
+.principal{
+    margin: 15px 2px 25px 2px;
     background-color:rgb(139, 0, 65);
-    width: 20%;
-    border: 5px;
-    height: 300px;
-}
-.conteudo.central{
-    margin: 10px 2px 2px 2px;
-    background-color:rgb(139, 0, 65);
-    width: 51%;
-    border: 5px;
-    height: 300px;
+    text-align: justify;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px 10px rgba(41, 16, 7, 0.61);
 }
 
 .rodape{
