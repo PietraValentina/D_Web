@@ -1,0 +1,64 @@
+.logo img{
+    width: 25%;
+    padding-top: 0px;
+}
+header{
+    background-color:rgba(243, 6, 172, 0.863);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 10px;
+    margin-top: 15px;
+    width: 95%;
+    height: 250px;
+    margin-left: 35px;
+    position: center;
+
+}
+.navegacao{
+    overflow: hidden ;
+}
+.navegação a{
+    display: block;
+    float: right;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    text-align: right;
+    padding:10px 10px;
+    
+}
+.navegacao a:hover{
+    color: darkorange;
+}
+.box1{
+    float: center;
+    margin: auto;
+    margin-top: 30px;
+    width: 80%;
+    text-align: center;
+    padding: 2px;
+    border-radius: 2px;
+    box-shadow: 1px 1px 1px ;
+    border: outset;
+    ;
+}
+.box2{
+    float: center;
+    margin: auto;
+    margin-top: 20px;
+    width: 80%;
+    text-align: center;
+    padding: 2px;
+    border-radius: 2px;
+    box-shadow: 1px 1px 1px ;
+    border: outset;
+}
+.box3{
+    float: center;
+    margin: auto;
+    margin-top: 20px;
+    width: 80%;
+    text-align: center;
+    padding: 2px;
+    border-radius: 2px;
+    border: outset;
+    box-shadow: 1px 1px 1px ;
+}
